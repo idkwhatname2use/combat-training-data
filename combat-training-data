@@ -1,1 +1,11 @@
-
+{
+  "session": {
+    "id": 5,
+    "code": "test12",
+    "host_user_id": 792477023733809202,
+    "host_display_name": "Skyfall",
+    "created_at": 1791135520,
+    "is_active": true
+  },
+  "signups": []
+}
